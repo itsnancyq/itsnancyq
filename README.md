@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsnancyq 🤠
-- 👀 I’m interested in music, cats, coffee, astronomy, and coding 😎
+- 👀 I’m interested in music, coffee, astronomy, and coding 😎
 - 🌱 I’m currently learning javascript 🧠
 - 💞️ I’m looking to collaborate on projects and discussions on html/css/javascript 📝
 - 📫 How to reach me: itsnancy@gmail.com 💌
