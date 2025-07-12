@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects and discussions on html/css/javascript 📝
 - 📫 How to reach me: itsnancy@gmail.com 💌
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I love the color blue
+- ⚡ Fun fact: I'm a musical instrument wizard 🪄
 
 <!---
 itsnancyq/itsnancyq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
